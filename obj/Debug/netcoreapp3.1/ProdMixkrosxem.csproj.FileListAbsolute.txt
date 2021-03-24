@@ -1,0 +1,39 @@
+G:\Progekt\test\ProdMixkrosxem\bin\Debug\netcoreapp3.1\ProdMixkrosxem.exe
+G:\Progekt\test\ProdMixkrosxem\bin\Debug\netcoreapp3.1\ProdMixkrosxem.deps.json
+G:\Progekt\test\ProdMixkrosxem\bin\Debug\netcoreapp3.1\ProdMixkrosxem.runtimeconfig.json
+G:\Progekt\test\ProdMixkrosxem\bin\Debug\netcoreapp3.1\ProdMixkrosxem.runtimeconfig.dev.json
+G:\Progekt\test\ProdMixkrosxem\bin\Debug\netcoreapp3.1\ProdMixkrosxem.dll
+G:\Progekt\test\ProdMixkrosxem\bin\Debug\netcoreapp3.1\ProdMixkrosxem.pdb
+G:\Progekt\test\ProdMixkrosxem\obj\Debug\netcoreapp3.1\ProdMixkrosxem.csprojAssemblyReference.cache
+G:\Progekt\test\ProdMixkrosxem\obj\Debug\netcoreapp3.1\ProdMixkrosxem.AssemblyInfoInputs.cache
+G:\Progekt\test\ProdMixkrosxem\obj\Debug\netcoreapp3.1\ProdMixkrosxem.AssemblyInfo.cs
+G:\Progekt\test\ProdMixkrosxem\obj\Debug\netcoreapp3.1\ProdMixkrosxem.csproj.CoreCompileInputs.cache
+G:\Progekt\test\ProdMixkrosxem\obj\Debug\netcoreapp3.1\ProdMixkrosxem.dll
+G:\Progekt\test\ProdMixkrosxem\obj\Debug\netcoreapp3.1\ProdMixkrosxem.pdb
+G:\Progekt\test\ProdMixkrosxem\obj\Debug\netcoreapp3.1\ProdMixkrosxem.genruntimeconfig.cache
+D:\Visual studi Progekt\Developed_console_programs\Developed_console_programs\ProdMixkrosxem\bin\Debug\netcoreapp3.1\ProdMixkrosxem.exe
+D:\Visual studi Progekt\Developed_console_programs\Developed_console_programs\ProdMixkrosxem\bin\Debug\netcoreapp3.1\ProdMixkrosxem.deps.json
+D:\Visual studi Progekt\Developed_console_programs\Developed_console_programs\ProdMixkrosxem\bin\Debug\netcoreapp3.1\ProdMixkrosxem.runtimeconfig.json
+D:\Visual studi Progekt\Developed_console_programs\Developed_console_programs\ProdMixkrosxem\bin\Debug\netcoreapp3.1\ProdMixkrosxem.runtimeconfig.dev.json
+D:\Visual studi Progekt\Developed_console_programs\Developed_console_programs\ProdMixkrosxem\bin\Debug\netcoreapp3.1\ProdMixkrosxem.dll
+D:\Visual studi Progekt\Developed_console_programs\Developed_console_programs\ProdMixkrosxem\bin\Debug\netcoreapp3.1\ProdMixkrosxem.pdb
+D:\Visual studi Progekt\Developed_console_programs\Developed_console_programs\ProdMixkrosxem\obj\Debug\netcoreapp3.1\ProdMixkrosxem.csprojAssemblyReference.cache
+D:\Visual studi Progekt\Developed_console_programs\Developed_console_programs\ProdMixkrosxem\obj\Debug\netcoreapp3.1\ProdMixkrosxem.AssemblyInfoInputs.cache
+D:\Visual studi Progekt\Developed_console_programs\Developed_console_programs\ProdMixkrosxem\obj\Debug\netcoreapp3.1\ProdMixkrosxem.AssemblyInfo.cs
+D:\Visual studi Progekt\Developed_console_programs\Developed_console_programs\ProdMixkrosxem\obj\Debug\netcoreapp3.1\ProdMixkrosxem.csproj.CoreCompileInputs.cache
+D:\Visual studi Progekt\Developed_console_programs\Developed_console_programs\ProdMixkrosxem\obj\Debug\netcoreapp3.1\ProdMixkrosxem.dll
+D:\Visual studi Progekt\Developed_console_programs\Developed_console_programs\ProdMixkrosxem\obj\Debug\netcoreapp3.1\ProdMixkrosxem.pdb
+D:\Visual studi Progekt\Developed_console_programs\Developed_console_programs\ProdMixkrosxem\obj\Debug\netcoreapp3.1\ProdMixkrosxem.genruntimeconfig.cache
+D:\Visual studi Progekt\Developed_console_programs\ProdMixkrosxem Progect\ProdMixkrosxem\bin\Debug\netcoreapp3.1\ProdMixkrosxem.exe
+D:\Visual studi Progekt\Developed_console_programs\ProdMixkrosxem Progect\ProdMixkrosxem\bin\Debug\netcoreapp3.1\ProdMixkrosxem.deps.json
+D:\Visual studi Progekt\Developed_console_programs\ProdMixkrosxem Progect\ProdMixkrosxem\bin\Debug\netcoreapp3.1\ProdMixkrosxem.runtimeconfig.json
+D:\Visual studi Progekt\Developed_console_programs\ProdMixkrosxem Progect\ProdMixkrosxem\bin\Debug\netcoreapp3.1\ProdMixkrosxem.runtimeconfig.dev.json
+D:\Visual studi Progekt\Developed_console_programs\ProdMixkrosxem Progect\ProdMixkrosxem\bin\Debug\netcoreapp3.1\ProdMixkrosxem.dll
+D:\Visual studi Progekt\Developed_console_programs\ProdMixkrosxem Progect\ProdMixkrosxem\bin\Debug\netcoreapp3.1\ProdMixkrosxem.pdb
+D:\Visual studi Progekt\Developed_console_programs\ProdMixkrosxem Progect\ProdMixkrosxem\obj\Debug\netcoreapp3.1\ProdMixkrosxem.csprojAssemblyReference.cache
+D:\Visual studi Progekt\Developed_console_programs\ProdMixkrosxem Progect\ProdMixkrosxem\obj\Debug\netcoreapp3.1\ProdMixkrosxem.AssemblyInfoInputs.cache
+D:\Visual studi Progekt\Developed_console_programs\ProdMixkrosxem Progect\ProdMixkrosxem\obj\Debug\netcoreapp3.1\ProdMixkrosxem.AssemblyInfo.cs
+D:\Visual studi Progekt\Developed_console_programs\ProdMixkrosxem Progect\ProdMixkrosxem\obj\Debug\netcoreapp3.1\ProdMixkrosxem.csproj.CoreCompileInputs.cache
+D:\Visual studi Progekt\Developed_console_programs\ProdMixkrosxem Progect\ProdMixkrosxem\obj\Debug\netcoreapp3.1\ProdMixkrosxem.dll
+D:\Visual studi Progekt\Developed_console_programs\ProdMixkrosxem Progect\ProdMixkrosxem\obj\Debug\netcoreapp3.1\ProdMixkrosxem.pdb
+D:\Visual studi Progekt\Developed_console_programs\ProdMixkrosxem Progect\ProdMixkrosxem\obj\Debug\netcoreapp3.1\ProdMixkrosxem.genruntimeconfig.cache
